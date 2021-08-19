@@ -9,8 +9,8 @@ bl_info = {
     "description": "Adds a button to toggle advanced debugging On and Off.",
     "warning": "",
     "doc_url": "",
-    "tracker_url": "https://github.com/gryldz/BlenderToggleDebugAll",
-    "category": "Development",
+    "tracker_url": "https://github.com/MehmetHY/BlenderToggleDebugAll",
+    "category": "Development"
 }
 
 class ToggleDebugAll(bpy.types.Operator):
